@@ -26,3 +26,7 @@ SELECT to retrieve data from specific columns, FROM to specify the table to retr
 
 Second step: Data Visualization
 Form the cleaned and combined dataset acquired from the previous step a data visualization is created using Power BI software. Power BI was used to create an interactive dashboard.
+
+Here is the image showcasing the Power BI dashboards I have created.
+
+![image](https://github.com/AditKukwas/Accenture-forage/assets/138763699/79cf27ad-39e6-4140-94ec-4514b28cf74a)
